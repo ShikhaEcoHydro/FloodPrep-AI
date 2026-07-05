@@ -1,0 +1,10 @@
+venv/
+__pycache__/
+*.pyc
+*.tif
+*.tiff
+*.tar.gz
+*.qmd
+rasters_COP30_Prayagraj/
+hybas_levl_01_12/
+.streamlit/secrets.toml
